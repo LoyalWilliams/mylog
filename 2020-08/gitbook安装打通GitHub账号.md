@@ -46,4 +46,4 @@
 
 以后，我们只需更新GitHub的项目，gitbook就会自动同步更新
 
-<img src="./支付码.png" width="60%"/>
+<img src="../支付码.png" width="60%"/>
