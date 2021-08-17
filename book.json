@@ -1,0 +1,14 @@
+{
+  "plugins": ["summary"],
+  "pluginsConfig": {
+    "summary" : {
+    "excludeDir":["assets","styles"], 
+    "readme":"0-README.md" , 
+    "summary":"SUMMARY.md" , 
+    "introduction":{         
+      "title":"introduction",
+      "file":"README.md"     
+    }
+	}
+}
+}
